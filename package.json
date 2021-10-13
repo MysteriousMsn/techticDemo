@@ -1,0 +1,50 @@
+{
+  "name": "solar",
+  "version": "1.0.0",
+  "description": "Solar CRM",
+  "main": "dashboard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "crud",
+    "mysql"
+  ],
+  "author": "iTriangle Technolabs",
+  "license": "ISC",
+  "dependencies": {
+    "@skavinvarnan/cryptlib": "^1.0.3",
+    "async": "^3.2.0",
+    "aws-sdk": "^2.810.0",
+    "body-parser": "^1.17.2",
+    "ckeditor": "^4.12.1",
+    "connect-redis": "^5.0.0",
+    "cookie-parser": "^1.4.3",
+    "crypto": "^1.0.1",
+    "dateformat": "^4.0.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "express-fileupload": "^1.2.0",
+    "express-flash": "0.0.2",
+    "express-myconnection": "^1.0.4",
+    "express-mysql-session": "^2.1.5",
+    "express-session": "^1.15.3",
+    "express-validator": "^3.2.0",
+    "method-override": "^2.3.9",
+    "moment": "^2.29.1",
+    "multer": "^1.4.2",
+    "multer-s3": "^2.9.0",
+    "mysql": "^2.13.0",
+    "node-fetch": "^2.6.1",
+    "node-input-validator": "^4.2.1",
+    "nodemailer": "^6.4.17",
+    "redis": "^3.0.2",
+    "request": "^2.88.2",
+    "simplepicker": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
