@@ -23,11 +23,8 @@ var dbOptions = {
 	database: config.database.db
 }
 global.base_url = config.base.url;
-global.booking_url = config.base.booking;
-global.api_url = config.base.api;
-global.api_key = config.base.api_key;
 global.username = '';
-global.moments = moment;
+
 
 
 // connect to database

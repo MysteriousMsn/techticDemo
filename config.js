@@ -11,10 +11,7 @@ var config = {
 		port: '3000'
 	},
 	base:{
-		url:'http://localhost:3000',
-		booking:'http://localhost:3000/booking',
-		api:'http://localhost:3000',
-		api_key: '049wee3437423jutyn56ds95275345df.t56m0rfqfs535ad'
+		url:'http://localhost:3000'
 	}
 }
 
